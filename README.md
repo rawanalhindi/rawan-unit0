@@ -27,6 +27,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 GIF created with [Recordit](http://g.recordit.co/1Lpfdd1sJq.gif).
+<img src="http://g.recordit.co/1Lpfdd1sJq.gif" width=250><br>
 
 ## Notes
 
